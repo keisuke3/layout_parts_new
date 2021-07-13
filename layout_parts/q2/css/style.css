@@ -1,5 +1,30 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
+.q2__content {
+  background-color: #ECF1F2;
+  padding: 20px;
+  margin: 0 auto;
+  width: 900px;
+}
 
+.q2__content__thumb {
+  margin-bottom: 10px;
+}
+
+.q2__content__thumb--left {
+  float: left;
+  margin-right: 20px;
+}
+
+.q2__content__thumb--right {
+  float: right;
+  margin-left: 20px;
+}
+
+.q2__content__text {
+  font-size: 18px;
+  line-height: 22px;
+  word-break: break-all;
+}
 /* 回答はここに書いてね */
